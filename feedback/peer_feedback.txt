@@ -1,3 +1,27 @@
+SHA
+--------------------
+Data Collection Blog: 9d5ecef
+EDA Blog: bc3a269
+Streamlit Dashboard: 156d7c7
+---------------------
 Byron:
+On your dashboard, the stats dropdown for Assists Field Goal % isn’t working. Otherwise it looks really good. 
+
+Your first blog post is great as well; its crisp, clear and well put together. 
+
+Same as above for the EDA blog post. Its very well put together, not to busy but very detailed. I really enjoyed it. 
+---------------------------------
 Justin:
-Other guy:
+This looks great I like your question and answer to how do we quantify greatness because that’s definitely a big part of the question you’re answering with the dataset. I think that was a good idea to use the scraper and to collect some more advanced stats other than just FG’s points and rebounds. To make it even more readable you could break up some of the big paragraphs into smaller ones which would stretch the post out and give the reader smaller chunks to read at a time. Other than that it looks great! I think you might be missing a question mark at the end of your first paragraph unless that was deliberate hahaha looks good though dude
+
+MJ Vs. Lebron Visualized Post:
+I love all the visuals and how simple it is to see the differences between Lebron and MJ. I appreciate how you describe things like mean game score and other sports terms that people may not understand coming from a non-sports background. I think you Accolades may have been spelled wrong just in the title part but other than that it looks great and I like how dive into complex parts of MJ and Lebron’s careers!
+
+Streamlit app:
+The app is really cool I think it flows well, starting out with a small tool to compare players by teams they have played then another small tool after to compare players by different NBA teams. One thing I was curious to look at was how MJ and Lebron looked side by side so maybe there is a way in the filter to select both of them to see how the stats match up that would be cool to see. Other than that I thought it had some great functionality and is a sick app!
+----------------------------------------------------------------------------
+Hunter: 
+The dashboard looks really nice! I like the background color, the interactive plots, and the nice bold titles!
+The titles for the data analysis look nice and clean, the consistent color use is nice, and the graphs look good. Make sure to check the 
+spelling of accolades. Nice intro for the data collection part, make sure to capitalize the titles for the sections,
+Good job using the Beautiful Soup webscraper to gather tha data.
