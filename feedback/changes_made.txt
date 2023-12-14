@@ -1,14 +1,15 @@
 Streamlit App: 
-SHA:b70d145
+Current SHA: 33d13d7
 Changes Made:
 Fixed the first dropdown so the assists variable worked
+Added a link to my github on the dashboard
 
 Data Collection Blog: 
-SHA: e883eb5
+Current SHA: e883eb5
 Changes Made:
 Split up the bigger paragrpahs so they were easier to read and added a question mark to the end of the first paragraph. I also made sure all of the section headers were capitalized.
 
 EDA Blog: 
-SHA:7d0c979
+Current SHA:7d0c979
 Changes Made:
 Corrected some mispelling errors and changed some of the visualization titles.
